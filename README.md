@@ -79,15 +79,22 @@ Library Management System/
 <div align="center">
 
 <img width="748" height="663" alt="{DB43D860-A85A-46BC-8F4D-5454C01349E8}" src="https://github.com/user-attachments/assets/ccdd535a-bf9e-4582-9f02-c7fb44272268" />
+
 <img width="1384" height="869" alt="{8C7B8E94-641F-4B1E-8897-D4280F133EEB}" src="https://github.com/user-attachments/assets/9dcaec5f-c244-4604-bcce-3aa844e31b61" />
+
 <img width="1379" height="581" alt="{CBE7FA5C-5F0B-4FA6-A101-D460F3660510}" src="https://github.com/user-attachments/assets/ef0f8b70-c42b-4bf0-a94e-a318807fcddd" />
+
 <img width="1069" height="437" alt="{B59EB58F-FF38-492D-B2BB-DF6EC2E2564C}" src="https://github.com/user-attachments/assets/8a2ff71d-1304-4fa2-bd25-532fe11e702c" />
 
 ## Admin Dashboard
 <img width="1503" height="932" alt="{931AA4F5-CA6A-49FE-8BE3-234C32DF95AF}" src="https://github.com/user-attachments/assets/cf24f24a-e07f-4492-8eaf-d09f602178f6" />
+
 <img width="1471" height="548" alt="{969AED98-477D-4D35-AED7-9E63BAD69315}" src="https://github.com/user-attachments/assets/49e8218e-3691-406e-9098-6743832d5a91" />
+
 <img width="1441" height="732" alt="{57EBFB49-FEFE-49A6-B868-157731052492}" src="https://github.com/user-attachments/assets/40b75dba-3b7e-45bf-b4b7-90581e55ddb0" />
+
 <img width="1296" height="329" alt="{E44112EF-EB04-44F7-B827-88CE5C7EA3A7}" src="https://github.com/user-attachments/assets/045da836-3d5c-4a19-a9dc-eefb2a539a89" />
+
 
 
   
