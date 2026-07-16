@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "book_id": 1,
+        "member_id": 2,
+        "issue_date": "2026-05-06 22:04:20",
+        "due_date": "2026-05-20",
+        "return_date": "2026-05-06 22:05:22",
+        "status": "returned"
+    },
+    {
+        "id": 2,
+        "book_id": 1,
+        "member_id": 2,
+        "issue_date": "2026-05-06 22:12:01",
+        "due_date": "2026-05-20",
+        "return_date": "2026-05-06 22:13:27",
+        "status": "returned"
+    },
+    {
+        "id": 3,
+        "book_id": 1,
+        "member_id": 2,
+        "issue_date": "2026-05-09 13:28:50",
+        "due_date": "2026-05-23",
+        "return_date": "2026-06-20 07:54:33",
+        "status": "returned"
+    },
+    {
+        "id": 4,
+        "book_id": 1,
+        "member_id": 4,
+        "issue_date": "2026-06-26 14:33:37",
+        "due_date": "2026-07-10",
+        "return_date": null,
+        "status": "issued"
+    }
+]

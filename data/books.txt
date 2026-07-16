@@ -1,0 +1,24 @@
+[
+    {
+        "title": "Mohsin the legend",
+        "author": "mohsin",
+        "isbn": "6162",
+        "publisher": "skynet",
+        "category": "story",
+        "total_copies": 5,
+        "id": 1,
+        "created_at": "2026-05-03 14:58:45",
+        "available_copies": 4
+    },
+    {
+        "title": "rah e ruh",
+        "author": "habib",
+        "isbn": "74322",
+        "publisher": "zakir",
+        "category": "novel",
+        "total_copies": 23,
+        "id": 2,
+        "created_at": "2026-05-06 22:25:33",
+        "available_copies": 23
+    }
+]
